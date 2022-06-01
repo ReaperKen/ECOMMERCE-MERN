@@ -1,0 +1,10 @@
+body {
+  position: relative;
+  overflow-x: hidden;
+  background: rgb(241 245 249 / 1);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
